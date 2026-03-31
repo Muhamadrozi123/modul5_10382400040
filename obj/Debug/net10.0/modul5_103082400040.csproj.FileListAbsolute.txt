@@ -1,0 +1,14 @@
+C:\SEMESTER 4\KPL\modul5_103082400040\bin\Debug\net10.0\modul5_103082400040.exe
+C:\SEMESTER 4\KPL\modul5_103082400040\bin\Debug\net10.0\modul5_103082400040.deps.json
+C:\SEMESTER 4\KPL\modul5_103082400040\bin\Debug\net10.0\modul5_103082400040.runtimeconfig.json
+C:\SEMESTER 4\KPL\modul5_103082400040\bin\Debug\net10.0\modul5_103082400040.dll
+C:\SEMESTER 4\KPL\modul5_103082400040\bin\Debug\net10.0\modul5_103082400040.pdb
+C:\SEMESTER 4\KPL\modul5_103082400040\obj\Debug\net10.0\modul5_103082400040.GeneratedMSBuildEditorConfig.editorconfig
+C:\SEMESTER 4\KPL\modul5_103082400040\obj\Debug\net10.0\modul5_103082400040.AssemblyInfoInputs.cache
+C:\SEMESTER 4\KPL\modul5_103082400040\obj\Debug\net10.0\modul5_103082400040.AssemblyInfo.cs
+C:\SEMESTER 4\KPL\modul5_103082400040\obj\Debug\net10.0\modul5_103082400040.csproj.CoreCompileInputs.cache
+C:\SEMESTER 4\KPL\modul5_103082400040\obj\Debug\net10.0\modul5_103082400040.dll
+C:\SEMESTER 4\KPL\modul5_103082400040\obj\Debug\net10.0\refint\modul5_103082400040.dll
+C:\SEMESTER 4\KPL\modul5_103082400040\obj\Debug\net10.0\modul5_103082400040.pdb
+C:\SEMESTER 4\KPL\modul5_103082400040\obj\Debug\net10.0\modul5_103082400040.genruntimeconfig.cache
+C:\SEMESTER 4\KPL\modul5_103082400040\obj\Debug\net10.0\ref\modul5_103082400040.dll
